@@ -10,3 +10,9 @@ I participated in a team of 6 for this project. My contributions were connecting
 
 ## Quality Assessment
 I feel I did a good job with this event although there were times where I was working on features for a few hours that had to be scrapped eventually. If I could do this again, I would put more focus on underlying systems as a foundation and scope appropriately to be able to add leaderboards in the game jam build. We ended up getting 11th most rated game (with 92 ratings), out of 648 total entries. The results are not out yet but it will be exciting to see where we rank in terms of quality. 
+
+![Submission Page](Images/Submission_Page.png?raw=true)
+![Gameplay Screenshot 1](Images/Gameplay_Screenshot_1.png?raw=true)
+![Game Page](Images/Game_Page.png?raw=true)
+![Gameplay Screenshot 2](Images/Gameplay_Screenshot_2.png?raw=true)
+![All Submissions Page](Images/All_Submissions_Page.png?raw=true)
