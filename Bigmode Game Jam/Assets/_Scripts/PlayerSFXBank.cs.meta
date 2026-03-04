@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3b625671ebeaf60459eb47c009ef83e0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - jumpSound: {fileID: 8300000, guid: a659afbd62f5c0f4998d705949245217, type: 3}
+  - landSound: {fileID: 8300000, guid: 92100aa306a706641bc66b07cd786d8c, type: 3}
+  - slidingSound: {fileID: 8300000, guid: f82362496d195bd468d0a3352a953b0c, type: 3}
+  - slideFailedSound: {fileID: 8300000, guid: 2d704bec2598e554aa13677b01feb26f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

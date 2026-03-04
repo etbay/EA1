@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29afa81dbb3a2ac46a955c6f398ad454, type: 3}
+  m_Name: Tutorial
+  m_EditorClassIdentifier: Assembly-CSharp::LevelData
+  sceneName: Tutorial
+  levelName: Tutorial
+  requirements:
+    dReq: 120
+    cReq: 80
+    bReq: 60
+    aReq: 40
+    sReq: 30
+  nextLevel: LevelRedirect
+  playerRank: 0
+  completed: 0
+  unlocked: 1
